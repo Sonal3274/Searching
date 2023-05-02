@@ -9,6 +9,8 @@ This repository is a collection of searching techniques that can be used to find
 - [ ] Interpolation Search
 - [ ] Ternary Search
 - [ ] Exponential Search
+- [ ] Fibonacci Search
+- [ ] Hashing
 
 # Getting Started
 
