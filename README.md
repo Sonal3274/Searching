@@ -4,13 +4,11 @@ This repository is a collection of searching techniques that can be used to find
 # Included Searching Techniques
 - [x] Linear Search
 - [x] Binary Search
-- [ ] Depth-First Search (DFS)
-- [ ] Breadth-First Search (BFS)
 - [ ] Interpolation Search
 - [ ] Ternary Search
 - [ ] Exponential Search
 - [ ] Fibonacci Search
-- [ ] Hashing
+- [ ] Jump Search
 
 # Getting Started
 

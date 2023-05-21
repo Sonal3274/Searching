@@ -15,7 +15,8 @@ fun binarySearch(arr: IntArray, key: Int): Int {
 }
 fun main() {
     val arr = intArrayOf(10, 20, 30, 40, 50, 60, 70, 80, 90)
-    val key = 50
+    arr.sort() // Sort the array in ascending order
+    val key = 80
 
     val index = binarySearch(arr, key)
     if (index != -1) {
